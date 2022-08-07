@@ -6,6 +6,11 @@
 ![CSS](https://img.shields.io/badge/css-style-lightgreen)
 ![HTML](https://img.shields.io/badge/HTML-MARKUP-orange)
 
+This project took me around 4+ hours to complete
+
+[Live Link](https://62ef941b13baf87d3359fc0c--cosmic-belekoy-09dd70.netlify.app/)
+
+
 This sample web hosting web page is designed using HTML and CSS
 
 Web page is divided in to sections
